@@ -39,6 +39,7 @@
 
 ### 🗄️ _Banco de Dados_
 <div style="display: flex; gap: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
 
 </div>
 
