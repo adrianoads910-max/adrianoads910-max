@@ -1,8 +1,4 @@
 <!-- Banner ou GIF de destaque -->
-<p align="center">
-  <img src="https://i.imgur.com/XT7g2.gif" width="100%" alt="banner">
-</p>
-
 # 👋 Olá, eu sou **Adriano Souza**
 
 💻 **Desenvolvedor Full Stack** | 🚀 Em transição de carreira  
