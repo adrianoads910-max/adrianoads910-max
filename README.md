@@ -43,8 +43,8 @@
 | 🌟 Projeto | 💬 Descrição | 🔗 Link |
 |------------|--------------|---------|
 | **PokeApi-FullStack** | Aplicação full-stack que consome a PokéAPI, com autenticação de usuários, sistema de favoritos e busca de Pokémons. | https://github.com/adrianoads910-max/PokeApi-FullStack |
-| **CodeEstudio** | Plataforma full-stack voltada para ensino e aprendizagem de programação básica. | _link futuro (adicione quando disponível)_ |
-| **LabNews** | Projeto front-end de uma loja de produtos químicos, com layout responsivo e componentes reutilizáveis. | _link futuro (adicione quando disponível)_ |
+| **CodeEstudio** | Plataforma full-stack voltada para ensino e aprendizagem de programação básica. | https://github.com/adrianoads910-max/code-studio |
+| **LabNews** | Projeto front-end de uma loja de produtos químicos, com layout responsivo e componentes reutilizáveis. | https://github.com/adrianoads910-max/labnews |
 
 ---
 
