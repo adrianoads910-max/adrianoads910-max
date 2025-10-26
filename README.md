@@ -59,6 +59,8 @@
 | **PokeApi-FullStack** | Aplicação full-stack que consome a PokéAPI, com autenticação de usuários, sistema de favoritos e busca de Pokémons. | https://github.com/adrianoads910-max/PokeApi-FullStack |
 | **CodeEstudio** | Plataforma full-stack voltada para ensino e aprendizagem de programação básica. | https://github.com/adrianoads910-max/code-studio |
 | **LabNews** | Projeto front-end de uma loja de produtos químicos, com layout responsivo e componentes reutilizáveis. | https://github.com/adrianoads910-max/labnews |
+| **Goldfit** | Projeto front-end  para gerenciamento e visualização de serviços, treinos e ofertas no nicho fitness e wellness. | https://github.com/adrianoads910-max/goldfit |
+| **Cafeteria por do sol** | Projeto “teste de cafeteria” — um site simples de demonstração de layout e interface para uma cafeteria. | https://github.com/adrianoads910-max/cafeteria |
 
 ---
 
