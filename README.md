@@ -20,7 +20,7 @@
 
 ## 📌 Sobre mim
 
-Desenvolvedor Full Stack apaixonado por construir soluções escaláveis e interfaces de alta qualidade. Atualmente atuando como **Estagiário Full Stack na Apollo Solutions Dev** e **Desenvolvedor Freelance na 100 Contas LTDA**, com experiência prática em todo o ciclo de desenvolvimento — do design no Figma até o deploy em cloud.
+Desenvolvedor Full Stack apaixonado por construir soluções escaláveis e interfaces de alta qualidade. Atualmente atuando como **Desenvolvedor Jr I na Apollo Solutions Dev** e **Desenvolvedor Jr na 100 Contas LTDA**, com experiência prática em todo o ciclo de desenvolvimento — do design no Figma até o deploy em cloud.
 
 - 🚀 **Trabalhando em:** Aplicações full stack, mobile com React Native e microsserviços com Docker
 - 🌱 **Estudando:** Arquitetura de Software, Inteligência Artificial e Machine Learning
@@ -34,21 +34,23 @@ Desenvolvedor Full Stack apaixonado por construir soluções escaláveis e inter
 
 | Período | Empresa | Cargo | Stack Principal |
 | :--- | :--- | :--- | :--- |
-| **Mai/2026 – Atual** | **100 Contas LTDA** | Desenvolvedor Full Stack (Freelance) | React, Node.js, PostgreSQL, Docker |
-| **Fev/2026 – Atual** | **Apollo Solutions Dev** | Estagiário Full Stack | NestJS, React Native, GCP, Docker |
+| **Mai/2026 – Atual** | **100 Contas LTDA** | Desenvolvedor Jr (Freelance) | Next.js, Node.js, PostgreSQL, Docker |
+| **Fev/2026 – Atual** | **Apollo Solutions Dev** | Desenvolvedor Jr I | NestJS, React Native, GCP, AWS, Docker |
 | **Dez/2025 – Fev/2026** | **CYRRUS** | Estagiário Front-End | Ionic Angular, TypeScript, SCSS |
 
-### 🏢 100 Contas LTDA — Desenvolvedor Full Stack (Freelance)
-- Desenvolvimento de aplicações full stack com **React + TypeScript** no front-end e **Node.js/Express** no back-end
+### 🏢 100 Contas LTDA — Desenvolvedor Jr (Freelance)
+> 📈 Promovido de Desenvolvedor Full Stack para **Jr** em Julho/2026
+- Desenvolvimento de aplicações full stack com **Next.js + TypeScript** no front-end e **Node.js/Express** no back-end
 - Desenvolvimento e manutenção de **APIs REST** e integrações com serviços externos
 - Modelagem de banco de dados com **PostgreSQL + Prisma ORM**
 - **Conteinerização** com Docker para padronização de ambientes
 
-### 🏢 Apollo Solutions Dev — Estagiário Full Stack
+### 🏢 Apollo Solutions Dev — Desenvolvedor Jr I
+> 📈 Promovido de Estagiário Full Stack para **Jr I** em Julho/2026
 - Desenvolvimento de aplicações de ponta a ponta com lógica analítica complexa
 - Back-end com **NestJS** em arquitetura modular e escalável
 - Mobile com **React Native** para produtos multiplataforma
-- Deploy e gerenciamento de recursos na **Google Cloud Platform (GCP)**
+- Deploy e gerenciamento de recursos em **Google Cloud Platform (GCP)** e **AWS**
 - Conteinerização de microsserviços com **Docker**
 
 ### 🏢 CYRRUS — Estagiário Front-End
@@ -61,12 +63,10 @@ Desenvolvedor Full Stack apaixonado por construir soluções escaláveis e inter
 
 ### 🖥️ Front-End
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" style="background:white;border-radius:6px;padding:2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular / Ionic"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3 / SCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="TailwindCSS"/>
 </div>
 
@@ -90,6 +90,7 @@ Desenvolvedor Full Stack apaixonado por construir soluções escaláveis e inter
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud Platform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS" style="background:white;border-radius:6px;padding:2px;"/>
 </div>
 
 ### 🎨 Design & Outros
@@ -118,10 +119,17 @@ Desenvolvedor Full Stack apaixonado por construir soluções escaláveis e inter
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adrianoads910-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianoads910-max&theme=tokyonight"/>
-  <br/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoads910-max&layout=compact&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=adrianoads910-max&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&icon_color=F7A44F"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianoads910-max&theme=radical&hide_border=true&border_radius=12"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoads910-max&layout=compact&theme=radical&hide_border=true&border_radius=12"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=adrianoads910-max&theme=radical&hide_border=true&radius=12&custom_title=Atividade%20no%20GitHub"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adrianoads910-max&theme=radical&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
 ---
