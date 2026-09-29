@@ -20,7 +20,7 @@
 
 ## 📌 Sobre mim
 
-Desenvolvedor Full Stack apaixonado por construir soluções escaláveis e interfaces de alta qualidade. Atualmente atuando como **Desenvolvedor Jr I na Apollo Solutions Dev** e **Desenvolvedor Jr na 100 Contas LTDA**, com experiência prática em todo o ciclo de desenvolvimento — do design no Figma até o deploy em cloud.
+Desenvolvedor Full Stack apaixonado por construir soluções escaláveis e interfaces de alta qualidade. Atualmente atuando como **Desenvolvedor Full Stack Jr I na Apollo Solutions Dev** e na **100 Contas LTDA** (ambos desde julho/2026, após começar como estagiário e freelancer), com experiência prática em todo o ciclo de desenvolvimento — do design no Figma até o deploy em cloud.
 
 - 🚀 **Trabalhando em:** Aplicações full stack, mobile com React Native e microsserviços com Docker
 - 🌱 **Estudando:** Arquitetura de Software, Inteligência Artificial e Machine Learning
@@ -34,19 +34,21 @@ Desenvolvedor Full Stack apaixonado por construir soluções escaláveis e inter
 
 | Período | Empresa | Cargo | Stack Principal |
 | :--- | :--- | :--- | :--- |
-| **Mai/2026 – Atual** | **100 Contas LTDA** | Desenvolvedor Jr (Freelance) | Next.js, Node.js, PostgreSQL, Docker |
-| **Fev/2026 – Atual** | **Apollo Solutions Dev** | Desenvolvedor Jr I | NestJS, React Native, GCP, AWS, Docker |
-| **Dez/2025 – Fev/2026** | **CYRRUS** | Estagiário Front-End | Ionic Angular, TypeScript, SCSS |
+| **Jul/2026 – Atual** | **100 Contas LTDA** | Desenvolvedor Full Stack Jr I | Next.js, Node.js, PostgreSQL, Docker |
+| **Jul/2026 – Atual** | **Apollo Solutions Dev** | Desenvolvedor Full Stack Jr I | NestJS, React Native, GCP, AWS, Docker |
+| Mai/2026 – Jun/2026 | 100 Contas LTDA | Desenvolvedor Full Stack (Freelance) | Next.js, Node.js, PostgreSQL, Docker |
+| Mar/2026 – Jun/2026 | Apollo Solutions Dev | Estagiário Full Stack | NestJS, React Native, GCP, AWS, Docker |
+| **Dez/2025 – Mar/2026** | **CYRRUS** | Estagiário Front-End | Ionic Angular, TypeScript, SCSS |
 
-### 🏢 100 Contas LTDA — Desenvolvedor Jr (Freelance)
-> 📈 Promovido de Desenvolvedor Full Stack para **Jr** em Julho/2026
+### 🏢 100 Contas LTDA — Desenvolvedor Full Stack Jr I
+> 📈 De Freelancer Full Stack (Mai/2026) para **Jr I** em Julho/2026
 - Desenvolvimento de aplicações full stack com **Next.js + TypeScript** no front-end e **Node.js/Express** no back-end
 - Desenvolvimento e manutenção de **APIs REST** e integrações com serviços externos
 - Modelagem de banco de dados com **PostgreSQL + Prisma ORM**
 - **Conteinerização** com Docker para padronização de ambientes
 
-### 🏢 Apollo Solutions Dev — Desenvolvedor Jr I
-> 📈 Promovido de Estagiário Full Stack para **Jr I** em Julho/2026
+### 🏢 Apollo Solutions Dev — Desenvolvedor Full Stack Jr I
+> 📈 De Estagiário Full Stack (Mar/2026) para **Jr I** em Julho/2026
 - Desenvolvimento de aplicações de ponta a ponta com lógica analítica complexa
 - Back-end com **NestJS** em arquitetura modular e escalável
 - Mobile com **React Native** para produtos multiplataforma
