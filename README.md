@@ -195,8 +195,27 @@ Desenvolvedor **Full Stack** apaixonado por construir soluções escaláveis e i
 
 <div align="center">
 
+### 🕳️ [Gargantua](https://github.com/adrianoads910-max/gargantua) — uma galáxia para seus agentes de IA
+
+<a href="https://github.com/adrianoads910-max/gargantua">
+  <img src="assets/gargantua.webp" width="800" alt="Gargantua: buraco negro ray-traced em WebGL com sessões do Claude Code orbitando como planetas" />
+</a>
+
+Inspirado em *Interstellar*: cada sessão do **Claude Code** vira um planeta orbitando um buraco negro **ray-traced em WebGL**, os subagentes são luas e você pilota a nave.<br/>
+Sessões paradas espiralam lentamente para o horizonte de eventos. Painel ao vivo com prompts, respostas e ferramentas, e um canal para transmitir prompts direto às sessões.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+[![Ver repositório](https://img.shields.io/badge/→%20Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianoads910-max/gargantua)
+
+<br/>
+
 | 🌟 Projeto | 🛠️ Stack | 💬 Descrição | 🔗 |
 |:----------:|:--------:|:------------|:--:|
+| **Gargantua** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | Galáxia inspirada em *Interstellar* para monitorar e pilotar agentes do Claude Code | [→ Ver](https://github.com/adrianoads910-max/gargantua) |
 | **SmartMart Solutions** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | Solução Full Stack para gerenciamento inteligente de varejo | [→ Ver](https://github.com/adrianoads910-max) |
 | **PokeApi-FullStack** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Autenticação, favoritos e consumo de API externa | [→ Ver](https://github.com/adrianoads910-max/PokeApi-FullStack) |
 | **CodeEstudio** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | Plataforma de ensino de lógica de programação | [→ Ver](https://github.com/adrianoads910-max/code-studio) |
